@@ -1,0 +1,559 @@
+{
+  "main": {
+    "id": "a1dc1b02eb0e5e19",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2e6e7e5d2b1e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa3dc52dcd9374b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "preprossesors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "preprossesors"
+            }
+          },
+          {
+            "id": "4f1e59795ce8dc79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git exercises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git exercises"
+            }
+          },
+          {
+            "id": "131193b66d8012d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shell 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shell 0"
+            }
+          },
+          {
+            "id": "a9569ff6b607018d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arraysLogic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "arraysLogic"
+            }
+          },
+          {
+            "id": "3cd8039b9f636d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git liom exercises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git liom exercises"
+            }
+          },
+          {
+            "id": "80c47e28e2a4b85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shell 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shell 0"
+            }
+          },
+          {
+            "id": "5a3fad3d0ce3e6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/computer seince.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "computer seince"
+            }
+          },
+          {
+            "id": "fb951c8afa39ba29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "functions exercises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "functions exercises"
+            }
+          },
+          {
+            "id": "d79ff07179ace21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "1d6dd0c58c61d641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dataStructure/DSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA"
+            }
+          },
+          {
+            "id": "3a35e382b1ec610d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dataStructure/MakeFile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MakeFile"
+            }
+          },
+          {
+            "id": "9c8f18ff1e16c846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dataStructure/GDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GDB"
+            }
+          },
+          {
+            "id": "909f1608f7444e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python"
+            }
+          },
+          {
+            "id": "62fce88e786fc6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "preprossesors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "preprossesors"
+            }
+          },
+          {
+            "id": "ccbec7797845c833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "d1ba84b8b08d2efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all built in fn in c/c built in functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c built in functions"
+            }
+          },
+          {
+            "id": "abba8a0e28345318",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "mini_project.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "mini_project"
+            }
+          },
+          {
+            "id": "324f9a85294b3b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c Learning/string C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "string C"
+            }
+          },
+          {
+            "id": "6359db1c3930a452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c Learning/string c exercises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "string c exercises"
+            }
+          },
+          {
+            "id": "d6f923b89d09e698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c Learning/what is array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is array"
+            }
+          },
+          {
+            "id": "80976b1160a9e28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c Learning/data in c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "data in c"
+            }
+          },
+          {
+            "id": "c779ef2b1dd32931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c Learning/string C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "string C"
+            }
+          },
+          {
+            "id": "1e024d587e5a2a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-07"
+            }
+          },
+          {
+            "id": "9f7c3d2938f54bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9545ac6adfcd8db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0edb9501102a792",
+    "type": "split",
+    "children": [
+      {
+        "id": "b026d11dac451a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fcbbefe805ee8a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d137303f03f442a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44ab112f7d9457c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d22f0325cc0bb590",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9bb2f542f4be1b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482dcefbd7d5e79e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "710ad77586428044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0c2ce3ba10312771",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1be879c8d5d64793",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6077e73d4f36d076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9545ac6adfcd8db2",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "2026-10-07.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "liiiinuuuux.md",
+    "c Learning/string C.md",
+    "js data operation.md",
+    "c Learning/data in c.md",
+    "c Learning/what is array.md",
+    "c Learning/string c exercises.md",
+    "c Learning/preprossesors.md",
+    "c Learning/POINTERS.md",
+    "c Learning/loops exercises.md",
+    "c Learning/functions exercises.md",
+    "c Learning/functions and arrays.md",
+    "c Learning/embedded-journy1.md",
+    "c Learning/arraysLogic.md",
+    "c Learning/array 2 and 3 dimontion.md",
+    "mini_project.base",
+    "git rebase and git merge.md",
+    "c Learning",
+    "tammmmmmmarin.md",
+    "Git.md",
+    "CS/computer seince.md",
+    "tty.md",
+    "Welcome.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "all built in fn in c/errors in c and times env.md",
+    "all built in fn in c",
+    "python",
+    "dataStructure",
+    "python/Untitled",
+    "CS"
+  ]
+}
